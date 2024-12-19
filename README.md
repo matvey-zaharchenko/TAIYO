@@ -13,3 +13,8 @@
 |Захарченко М.А.|     Программист    |Программирование на Python|
 |Кукава И.Г.|     Математик    |Формирование математической модели|
 |Мицкевич А.А.|     Лидер    |Оформление результатов, работа с KSP|
+## **Link to project report**
+https://drive.google.com/drive/folders/1zeiSCXAg8iFwNsfuP1ph_0vQ2oA_zI8_?usp=sharing
+
+
+
